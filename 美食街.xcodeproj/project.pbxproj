@@ -13,6 +13,7 @@
 		027177382010E30400C3D25C /* HWMenuStyleOfCookingItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 027177372010E30400C3D25C /* HWMenuStyleOfCookingItem.m */; };
 		0271774C20111B2F00C3D25C /* HWMenuDetailVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0271774820111B2F00C3D25C /* HWMenuDetailVC.m */; };
 		0271775320111C3500C3D25C /* HWMenuDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0271775120111C3500C3D25C /* HWMenuDetailCell.m */; };
+		0283E9F5201D765A00A8DFA8 /* HWTesting.m in Sources */ = {isa = PBXBuildFile; fileRef = 0283E9F4201D765A00A8DFA8 /* HWTesting.m */; };
 		02A7E7E420179E69009EE5E1 /* HWMaterialCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 02A7E7E320179E69009EE5E1 /* HWMaterialCollectionView.m */; };
 		02A7E7E720179EBB009EE5E1 /* HWMaterialItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 02A7E7E620179EBB009EE5E1 /* HWMaterialItem.m */; };
 		02A7E7ED2017A29A009EE5E1 /* HWMaterialCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 02A7E7EB2017A29A009EE5E1 /* HWMaterialCollectionViewCell.m */; };
@@ -70,6 +71,8 @@
 		0271775020111C3500C3D25C /* HWMenuDetailCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HWMenuDetailCell.h; sourceTree = "<group>"; };
 		0271775120111C3500C3D25C /* HWMenuDetailCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HWMenuDetailCell.m; sourceTree = "<group>"; };
 		02717755201122E100C3D25C /* HWFood.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HWFood.pch; sourceTree = "<group>"; };
+		0283E9F3201D765A00A8DFA8 /* HWTesting.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HWTesting.h; sourceTree = "<group>"; };
+		0283E9F4201D765A00A8DFA8 /* HWTesting.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HWTesting.m; sourceTree = "<group>"; };
 		02A7E7E220179E69009EE5E1 /* HWMaterialCollectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HWMaterialCollectionView.h; sourceTree = "<group>"; };
 		02A7E7E320179E69009EE5E1 /* HWMaterialCollectionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HWMaterialCollectionView.m; sourceTree = "<group>"; };
 		02A7E7E520179EBB009EE5E1 /* HWMaterialItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HWMaterialItem.h; sourceTree = "<group>"; };
@@ -294,6 +297,8 @@
 				0E581C0C200F494900F3D77E /* HomePage */,
 				0E581BF4200F410A00F3D77E /* Main */,
 				0E581BF0200F405200F3D77E /* Other */,
+				0283E9F3201D765A00A8DFA8 /* HWTesting.h */,
+				0283E9F4201D765A00A8DFA8 /* HWTesting.m */,
 			);
 			path = Class;
 			sourceTree = "<group>";
@@ -696,6 +701,7 @@
 				0EA257A82018791A00BD36BA /* UIView+Frame.m in Sources */,
 				0E581BF3200F405200F3D77E /* AppDelegate.m in Sources */,
 				0E1BE7A02019DAB8004974A4 /* HWProcessTableView.m in Sources */,
+				0283E9F5201D765A00A8DFA8 /* HWTesting.m in Sources */,
 				0E581C04200F473500F3D77E /* HWMenuViewController.m in Sources */,
 				0E581C0B200F48D100F3D77E /* HWVideoViewController.m in Sources */,
 				0271775320111C3500C3D25C /* HWMenuDetailCell.m in Sources */,
