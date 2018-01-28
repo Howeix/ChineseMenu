@@ -7,7 +7,25 @@
 		<key>美食街.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0E581BB3200F0A6600F3D77E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0E581BCB200F0A6600F3D77E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0E581BD6200F0A6600F3D77E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

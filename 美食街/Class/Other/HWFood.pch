@@ -1,0 +1,20 @@
+//
+//  HWFood.pch
+//  美食街
+//
+//  Created by Jerry Huang on 2018/1/19.
+//  Copyright © 2018年 黄炜. All rights reserved.
+//
+
+#ifndef HWFood_pch
+#define HWFood_pch
+#import "UIView+Frame.h"
+#define APPKEY @"f296352aef1d76c5c6db3df4043becbb"
+#define XMGColor(r,g,b) [UIColor colorWithRed:(r) / 256.0 green:(g) / 256.0 blue:(b) / 256.0 alpha:0.7]
+#define XMGGrayColor(v) XMGColor(v,v,v)
+#define XMGRandomColor XMGColor(arc4random_uniform(255), arc4random_uniform(255), arc4random_uniform(255))
+#define HWScreenW [UIScreen mainScreen].bounds.size.width
+#define HWScreenH [UIScreen mainScreen].bounds.size.height
+
+
+#endif /* HWFood_pch */
